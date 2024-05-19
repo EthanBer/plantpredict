@@ -1,3 +1,5 @@
+
+edit the index.html file to change frontend, backend is in API folder, set baseUrl to http://localhost:8000/ to use local copy of FarmChat
 # MonoRepo
 
 Welcome to the MonoRepo for FarmStack and Farmer-Chat! This repository serves as a centralized hub for managing both the FarmStack application components and the Farmer-Chat project. It offers the necessary tools and setups for digital farming management systems and community communication, providing a comprehensive and integrated approach to agricultural solutions.
